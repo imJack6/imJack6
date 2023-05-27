@@ -5,6 +5,8 @@
 # 👀 About Me
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imJack6&count_private=true&show_icons=true&theme=radical&locale=cn)
 
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imJack6&count_private=true&layout=compact&theme=radical&locale=cn)
+
 > You are my ![My Profile Counter](https://profile-counter.glitch.me/imJack6/count.svg) visitor!
 
 <!--
