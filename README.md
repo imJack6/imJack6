@@ -7,7 +7,7 @@
 
 ![My Top Langs](https://github-readme-stats-imjack6.vercel.app/api/top-langs/?username=imJack6&count_private=true&layout=compact&theme=radical&locale=en)
 
-> You are my ![My Profile Counter](https://profile-counter.glitch.me/imJack6/count.svg) visitor!
+<!-- > You are my ![My Profile Counter](https://profile-counter.glitch.me/imJack6/count.svg) visitor! -->
 
 <!--
 **imJack6/imJack6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="http://counter.seku.su/cmoe?name=imJack6" />
