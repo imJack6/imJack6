@@ -1,6 +1,6 @@
 ### 👋 Hi there, im JackLei!
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,visualstudio,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,kotlin,vue,typescript,javascript,idea,rider,webstorm,visualstudio,vscode,github)]()
 
 # 👀 About Me
 ![My GitHub stats](https://github-readme-stats-imjack6.vercel.app/api?username=imJack6&count_private=true&show_icons=true&theme=radical&locale=en)
